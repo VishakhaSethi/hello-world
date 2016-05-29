@@ -1,4 +1,6 @@
 # hello-world
 Test
 
-This is the test file in the edit branch. I am using this just to understand how branch and commit works in github.
+Test #2
+
+This is another test for understanding and using git branch, merge, commit and pull requests.
